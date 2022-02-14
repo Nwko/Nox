@@ -1,0 +1,12 @@
+{
+  "name": "nox",
+  "version": "1.0.0",
+  "description": "nox-site .w.",
+  "main": "public/js/main.js",
+  "author": "Nox",
+  "license": "Unlicense",
+  "private": true,
+  "dependencies": {
+    "sass": "^1.49.7"
+  }
+}
