@@ -8,3 +8,5 @@
 - [X] Make the navbar work
 - [ ] Make a better navbar than the current one
 - [ ] Add animations
+- [ ] Make a test page
+- [ ] Add more to the script
