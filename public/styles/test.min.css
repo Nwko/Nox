@@ -1,0 +1,2 @@
+@-webkit-keyframes fade{0%{opacity:0}50%{opacity:0.5}100%{opacity:1}}@keyframes fade{0%{opacity:0}50%{opacity:0.5}100%{opacity:1}}body{background-color:#e0b130;-webkit-animation:fade 1.5s;animation:fade 1.5s}a{color:#fff;text-decoration:none}a:hover,a:active,a:focus{color:#ffd781}.nav{color:#fff;text-align:center;text-decoration:none;font-family:'Open Sans', sans-serif}h1{color:#fff;font-family:'Open Sans', sans-serif;font-weight:300;text-align:center}p{color:#fff;font-family:'Open Sans', sans-serif;font-weight:150;text-align:center}
+/*# sourceMappingURL=test.min.css.map */
