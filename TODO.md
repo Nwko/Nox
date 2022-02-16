@@ -7,6 +7,7 @@
 - [ ] Add more things to this project
 - [X] Make the navbar work
 - [ ] Make a better navbar than the current one
-- [ ] Add animations
-- [ ] Make a test page
-- [ ] Add more to the script
+- [X] Add animations
+- [X] Make a test page
+- [X] Add more to the script
+- [ ] Make better animations -w-
