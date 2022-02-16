@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "nox-site .w.",
   "main": "public/js/main.js",
-  "author": "Nox",
+  "author": [
+    name: "Nox",
+    email: "alexanderisasimp4anime@gmail.com",
+    discord: "Nox#4350"
+  ],
   "license": "Unlicense",
   "private": true,
-  "dependencies": {
-    "sass": "^1.49.7"
-  }
 }
