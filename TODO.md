@@ -6,7 +6,7 @@
 - [ ] Never gonna give you up never gonna let you down and desert you
 - [ ] Add more things to this project
 - [X] Make the navbar work
-- [X] Make a better navbar than the current one
+- [X] Make a better navbar than the current one <!-- haha uh forget the commit before this where that is check off :D -->
 - [X] Add animations
 - [X] Make a test page
 - [X] Add more to the script

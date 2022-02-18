@@ -1,2 +1,2 @@
-.nav{color:#fff;font-family:Cambria, Cochin, Georgia, Times, Times New Roman,serif;font-size:1.5em;text-decoration:none;border:ridge;border-color:#f3951a;border-style:solid;border-radius:0.5em}a:hover,a:click,a:focus,a:active{color:#ffd781;text-decoration:none}ul{list-style-type:none;margin:0;padding:0}
+.nav{color:#3a9da3;text-align:center;font-family:'Shizuru', cursive;font-size:1em;text-decoration:none;border-radius:0.5em;border:3px solid #bfda5f;list-style:none}a{color:#3a9da3;font-family:'Shizuru', cursive;font-size:1.25em;text-decoration:none}a:hover,a:click,a:focus,a:active{color:#899e8b;text-decoration:none}li{list-style:none}
 /*# sourceMappingURL=nav.min.css.map */
