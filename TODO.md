@@ -11,3 +11,4 @@
 - [X] Make a test page
 - [X] Add more to the script
 - [ ] Make better animations -w-
+- [ ] Add more colors that isn't like a banana
