@@ -1,4 +1,4 @@
-# Nox
+# Nox [![CodeFactor](https://www.codefactor.io/repository/github/nwko/nox/badge)](https://www.codefactor.io/repository/github/nwko/nox)
 
 `Hello and welcome to Nox brought to you by Nox me!`
 
