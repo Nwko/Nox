@@ -12,3 +12,4 @@
 - [X] Add more to the script
 - [ ] Make better animations -w-
 - [ ] Add more colors that isn't like a banana
+- [ ] Try animations with p5.js
