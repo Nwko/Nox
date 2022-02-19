@@ -11,3 +11,7 @@ So, you maybe wondering "Hey Nox, wtf is this shi-" and to that I say this is a 
 - Weng for the background color o(〃＾▽＾〃)o
 
 ![Weng](assets/Weng.png)
+
+- BlackShadow441 for adding something  to script.txt (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+![BlackShadow441](assets/BlackShadow441.jpg)
