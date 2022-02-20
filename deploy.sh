@@ -3,17 +3,23 @@
 # abort on errors
 set -e
 
-# build
-yarn build
+# navigate into the source directory
+cd public
 
-# navigate into build output directory
-cd web
-
+# git initialize
 git init
+
+# head into the master branch
 git checkout -b master
+
+# commit al the files
 git add -A
+
+# commit the changes
 git commit -m '🚀Deploy :D'
 
+# push it
 git push -f git@github.com:Nwko/Nox.git master:gh-pages
 
-cd -
+# no clue what this is for :D
+cd ~
