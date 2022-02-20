@@ -1,15 +1,13 @@
 {
   "name": "nox",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "nox-site .w.",
-  "main": "public/js/main.js",
-  "maintainers": [
-    {
-      "name": "Nox",
-      "email": "alexanderisasimp4anime@gmail.com",
-      "url": "http://github.com/Nwko"
-    }
-  ],
+  "main": "public/scripts/main.js",
+  "author": {
+    "name": "Nox",
+    "email": "alexanderisasimp4anime@gmail.com",
+    "url": "http://github.com/Nwko"
+  },
   "license": "Unlicense",
   "private": true
 }
