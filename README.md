@@ -12,6 +12,10 @@ So, you maybe wondering "Hey Nox, wtf is this shi-" and to that I say this is a 
 
 ![Weng](assets/Weng.png)
 
-- BlackShadow441 for adding something  to script.txt (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+- BlackShadow441 for adding something to script.txt (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
 
 ![BlackShadow441](assets/BlackShadow441.jpg)
+
+- Razomi for giving me things to do *★,°*:.☆(￣▽￣)/$:*.°★* 。
+
+![Razomi](assets/Razomi.png)
