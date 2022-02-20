@@ -9,9 +9,6 @@ cd public
 # git initialize
 git init
 
-# head into the master branch
-git checkout -b master
-
 # commit al the files
 git add -A
 
@@ -23,3 +20,6 @@ git push -f git@github.com:Nwko/Nox.git master:gh-pages
 
 # no clue what this is for :D
 cd ~
+
+# to confirm its done
+sleep 7 && echo "🚀Deployed :D"
