@@ -13,4 +13,4 @@
 - [ ] Make better animations -w-
 - [ ] Add more colors that isn't like a banana
 - [ ] Try animations with p5.js
-- [ ] Deploy on GitHub pages
+- [X] Deploy on GitHub pages
