@@ -9,5 +9,8 @@
     "url": "http://github.com/Nwko"
   },
   "license": "Unlicense",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "animate.css": "^4.1.1",
+  }
 }
