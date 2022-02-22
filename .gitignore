@@ -4,7 +4,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,sass,node
 
 ### Test ###
-.htpaccess
+.htaccess
 
 ### Node ###
 # Logs
