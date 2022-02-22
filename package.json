@@ -6,7 +6,11 @@
   "author": {
     "name": "Nox",
     "email": "alexanderisasimp4anime@gmail.com",
-    "url": "http://github.com/Nwko"
+    "url": "http://github.com/Nwko/"
+  },
+  "scripts": {
+    "uglify": "./uglify.sh",
+    "deploy": "./deploy.sh"
   },
   "license": "Unlicense",
   "private": true,
