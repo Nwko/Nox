@@ -7,7 +7,6 @@
 - [ ] Add more colors that isn't like a banana
 - [ ] Try animations with p5.js
 - [ ] Get at least 3 commits minium in everyday until March 1st\
-- [ ] Make a 404.html and make it look good for once ￣へ￣
 
 ## Completed
 
@@ -19,3 +18,4 @@
 - [X] Make a test page
 - [X] Add more to the script
 - [X] Deploy on GitHub pages
+- [X] Make a 404.html and make it look good for once ￣へ￣
