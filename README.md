@@ -8,7 +8,7 @@ So, you maybe wondering "Hey Nox, wtf is this shi-" and to that I say this is a 
 
 ### Contributors
 
-- Weng for the background color o(〃＾▽＾〃)o
+- Weng for providing colors o(〃＾▽＾〃)o
 
 ![Weng](assets/Weng.png)
 
