@@ -9,3 +9,6 @@ Lorem Ipsum stuff, somehow slave no.001 gets out of sight and almost reveals my 
 # Test page
 Hello, there so, just how did you end up here? Are you perhaps lost if so, just click here! What's that your intentionally here well then. Hello, and welcome to the Test page here we test out new features that may or may not be added to the other pages also do be careful since everything here is experimental so, if you explode were not be to be blamed :D
 "Why was the ant confused? Cause all of his uncles were ants." were the last things I said before my wife left me
+# 404 page
+Hey, you're here because you're lost? Well, I'm sorry but I can't find what you're looking for.
+Or so, I'd say but you've entered my SCERET LAIR! NOW YOU GOT TWO CHOICES EITHER YOU CAN LEAVE NOW OR DIE! >=d
