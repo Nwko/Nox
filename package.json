@@ -2,6 +2,7 @@
   "name": "nox",
   "version": "1.0.5",
   "description": "nox-site .w.",
+  "type": "module",
   "main": "public/scripts/main.js",
   "author": {
     "name": "Nox",
@@ -15,6 +16,7 @@
   "license": "Unlicense",
   "private": true,
   "dependencies": {
-    "animate.css": "^4.1.1"
+    "animate.css": "^4.1.1",
+    "jquery": "^3.6.0"
   }
 }
