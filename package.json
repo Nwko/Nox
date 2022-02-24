@@ -16,7 +16,6 @@
   "license": "Unlicense",
   "private": true,
   "dependencies": {
-    "animate.css": "^4.1.1",
-    "jquery": "^3.6.0"
+    "animate.css": "^4.1.1"
   }
 }
