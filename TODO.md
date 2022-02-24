@@ -6,10 +6,9 @@
 - [ ] Make better animations -w-
 - [ ] Add more colors that isn't like a banana
 - [ ] Get at least 3 commits minium in everyday until March 14th\ <!-- Yes, I'm leaving the / in :D -->
-- [ ] Add a dark light more <!-- I meant "Add a dark and light mode not "Add a dark light more" qwq -->
 - [ ] Figure out jQuery
 - [ ] Fix the damn code to work so, it works on Chrome and Opera too
-- [ ] Add the lastest commit and built time to the footer of the page like in <https://discord.js.org/>
+- [ ] Add the latest commit and built time to the footer of the page like in <https://discord.js.org/>
 
 ## Completed
 
@@ -22,6 +21,7 @@
 - [X] Add more to the script
 - [X] Deploy on GitHub pages
 - [X] Make a 404.html and make it look good for once ￣へ￣
+- [X] Add a dark light more <!-- I meant "Add a dark and light mode not "Add a dark light more" qwq -->
 
 ### Discarded
 
