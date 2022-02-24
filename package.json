@@ -1,6 +1,6 @@
 {
   "name": "nox",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "nox-site .w.",
   "type": "module",
   "main": "public/scripts/main.js",
@@ -9,6 +9,11 @@
     "email": "alexanderisasimp4anime@gmail.com",
     "url": "http://github.com/Nwko/"
   },
+  "bugs": "https://github.com/Nwko/Nox/issues/",
+  "keywords": [
+    "nox",
+    "nox-site"
+  ],
   "scripts": {
     "uglify": "./uglify.sh",
     "deploy": "./deploy.sh"
