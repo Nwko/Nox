@@ -1,6 +1,6 @@
 {
   "name": "nox",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "nox-site .w.",
   "type": "module",
   "main": "public/scripts/main.js",
@@ -16,11 +16,15 @@
   ],
   "scripts": {
     "uglify": "./uglify.sh",
-    "deploy": "./deploy.sh"
+    "deploy": "./deploy.sh",
+    "github": "node public/github.js"
   },
   "license": "Unlicense",
   "private": true,
   "dependencies": {
     "animate.css": "^4.1.1"
+  },
+  "devDependencies": {
+    "@octokit/core": "^3.5.1"
   }
 }
