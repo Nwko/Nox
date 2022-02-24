@@ -17,7 +17,7 @@
   "scripts": {
     "uglify": "./uglify.sh",
     "deploy": "./deploy.sh",
-    "github": "node public/github.js"
+    "github": "node public/scripts/github.js"
   },
   "license": "Unlicense",
   "private": true,
