@@ -1,0 +1,25 @@
+{
+  "short_name": "Nox",
+  "name": "Nox-site",
+  "icons": [
+    {
+      "src": "/assets/♥.jpg/",
+      "type": "image/jpg",
+      "sizes": "300x300"
+    },
+    {
+      "src": "/assets/♥192px.jpg/",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/♥512px.jpg/",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/Nox/test/",
+  "background_color": "#899E8B",
+  "display": "standalone",
+  "theme_color": "#ffffff"
+}
