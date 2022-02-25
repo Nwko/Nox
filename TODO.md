@@ -9,6 +9,7 @@
 - [ ] Figure out jQuery
 - [ ] Fix the damn code to work so, it works on Chrome and Opera too
 - [ ] Add the latest commit and built time to the footer of the page like in <https://discord.js.org/>
+- [ ] Test the site on other main browrs and mobile devices
 
 ## Completed
 
