@@ -1,3 +1,6 @@
+main:
+	echo "Haiii"
+
 deploy:
 # abort on errors
 	set -e
