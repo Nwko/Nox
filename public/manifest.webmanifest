@@ -10,11 +10,6 @@
   "description": "Nox-site",
   "icons": [
     {
-      "src": "/Nox/♥.jpg",
-      "sizes": "192x192",
-      "type": "image/x-icon"
-    },
-    {
       "src": "/Nox/assets/♥192px.png",
       "sizes": "192x192",
       "type": "image/x-icon"
