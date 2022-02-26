@@ -22,4 +22,7 @@ git push -f git@github.com:Nwko/Nox.git master:gh-pages
 cd ~
 
 # to confirm its done
-sleep 7 && echo "🚀Deployed :D"
+echo "🚀Deployed :D"
+
+# test
+sleep 3

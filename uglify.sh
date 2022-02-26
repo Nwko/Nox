@@ -2,6 +2,8 @@
 
 # test
 echo "Uglifying... (～￣▽￣)～"
-uglifyjs public/js/main.js --compress --mangle -o public/js/main.min.js
-uglifyjs public/js/index.js --compress --mangle -o public/js/index.min.js
+uglifyjs public/scripts/main.js --compress --mangle -o public/scripts/main.min.js
+uglifyjs public/scripts/github.js --compress --mangle -o public/scripts/github.min.js
+uglifyjs public/scripts/dlm.js --compress --mangle -o public/scripts/dlm.min.js
 echo "Uglified! Now they are as ugly as you! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧"
+sleep 3
