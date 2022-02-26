@@ -25,4 +25,4 @@ cd ~
 echo "🚀Deployed :D"
 
 # test
-sleep 3
+sleep 2
