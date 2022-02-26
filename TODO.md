@@ -4,7 +4,6 @@
 - [ ] Never gonna give you up never gonna let you down and desert you
 - [ ] Add more things to this project
 - [ ] Make better animations -w-
-- [ ] Add more colors that isn't like a banana
 - [ ] Get at least 3 commits minium in everyday until March 14th\ <!-- Yes, I'm leaving the / in :D -->
 - [ ] Figure out jQuery
 - [ ] Add the latest commit and built time to the footer of the page like in <https://discord.js.org/>
@@ -23,6 +22,7 @@
 - [X] Fix the damn code to work so, it works on Chrome and Opera too
 - [X] Add a dark light more <!-- I meant "Add a dark and light mode not "Add a dark light more" qwq -->
 - [X] Test the site on other main browrs and mobile devices
+- [X] Add more colors that isn't like a banana
 
 ### Discarded
 
