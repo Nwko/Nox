@@ -8,7 +8,6 @@
 - [ ] Get at least 3 commits minium in everyday until March 14th\ <!-- Yes, I'm leaving the / in :D -->
 - [ ] Figure out jQuery
 - [ ] Add the latest commit and built time to the footer of the page like in <https://discord.js.org/>
-- [ ] Test the site on other main browrs and mobile devices
 
 ## Completed
 
@@ -22,7 +21,8 @@
 - [X] Deploy on GitHub pages
 - [X] Make a 404.html and make it look good for once ￣へ￣
 - [X] Fix the damn code to work so, it works on Chrome and Opera too
-- [X] Add a dark light more <!-- I meant "Add a dark and light mode not "Add a dark light more" qwq -->\
+- [X] Add a dark light more <!-- I meant "Add a dark and light mode not "Add a dark light more" qwq -->
+- [X] Test the site on other main browrs and mobile devices
 
 ### Discarded
 
