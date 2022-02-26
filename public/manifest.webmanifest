@@ -1,25 +1,28 @@
 {
-  "short_name": "Nox",
   "name": "Nox-site",
+  "short_name": "Nox",
+  "start_url": "/Nox/test",
+  "display": "standalone",
+  "background_color": "#899E8B",
+  "lang": "en",
+  "scope": "/Nox",
+  "theme_color": "#ffffff",
+  "description": "Nox-site",
   "icons": [
     {
-      "src": "/assets/♥.jpg/",
-      "type": "image/jpg",
-      "sizes": "300x300"
+      "src": "/Nox/♥.jpg",
+      "sizes": "192x192",
+      "type": "image/x-icon"
     },
     {
-      "src": "/assets/♥192px.jpg/",
-      "type": "image/jpg",
-      "sizes": "192x192"
+      "src": "/Nox/assets/♥192px.png",
+      "sizes": "192x192",
+      "type": "image/x-icon"
     },
     {
-      "src": "/assets/♥512px.jpg/",
-      "type": "image/jpg",
-      "sizes": "512x512"
+      "src": "/Nox/assets/♥512px.png",
+      "sizes": "512x512",
+      "type": "image/x-icon"
     }
-  ],
-  "start_url": "/Nox/test/",
-  "background_color": "#899E8B",
-  "display": "standalone",
-  "theme_color": "#ffffff"
+  ]
 }
