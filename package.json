@@ -15,7 +15,6 @@
     "nox-site"
   ],
   "scripts": {
-    "uglify": "./uglify.sh",
     "deploy": "./deploy.sh",
     "github": "node public/scripts/github.js"
   },
@@ -25,7 +24,7 @@
     "animate.css": "^4.1.1"
   },
   "devDependencies": {
-    "@octokit/core": "^3.5.1",
-    "uglifyjs": "^2.4.11"
+    "@octokit/core": "^3.5.1"
   }
 }
+
