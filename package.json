@@ -3,7 +3,7 @@
   "version": "2.0.0",
   "description": "nox-site .w.",
   "type": "module",
-  "main": "public/scripts/main.js",
+  "main": "public/scripts/dlm.js",
   "author": {
     "name": "Nox",
     "email": "alexanderisasimp4anime@gmail.com",
@@ -14,17 +14,9 @@
     "nox",
     "nox-site"
   ],
-  "scripts": {
-    "deploy": "./deploy.sh",
-    "github": "node public/scripts/github.js"
-  },
   "license": "Unlicense",
   "private": true,
   "dependencies": {
     "animate.css": "^4.1.1"
-  },
-  "devDependencies": {
-    "@octokit/core": "^3.5.1"
   }
 }
-
