@@ -1,0 +1,28 @@
+.light-mode {
+  background-color: #a8fff1;
+  color: black;
+}
+
+.light-mode:hover, a:hover {
+  color: #b4ffd6;
+}
+
+.light-mode:hover, button:hover {
+  background-color: #a8fff1;
+  border: 1px solid #7c7c7c;
+}
+
+.dark-mode {
+  background-color: #060055;
+  color: white;
+}
+
+.dark-mode:hover, a:hover {
+  color: #5f0000;
+}
+
+.dark-mode:hover, button:hover {
+  background-color: #060055;
+  border: 1px solid #afafaf;
+}
+/*# sourceMappingURL=dlm.css.map */

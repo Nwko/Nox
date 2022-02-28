@@ -1,0 +1,43 @@
+body {
+  color: rgba(196, 196, 196, 0.63);
+  background-color: #aaaaaa;
+  font-family: fantasy;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  text-decoration: none;
+  text-align: left;
+}
+
+a {
+  color: #818181;
+  text-decoration: none;
+}
+
+button {
+  color: #919191;
+  border: none;
+  font-family: fantasy;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  text-decoration: none;
+  text-align: left;
+}
+
+h1 {
+  color: white;
+  font-family: fantasy;
+  font-size: 2.5em;
+  line-height: 1.5em;
+  text-decoration: none;
+  text-align: left;
+}
+
+p {
+  color: white;
+  font-family: fantasy;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  text-decoration: none;
+  text-align: left;
+}
+/*# sourceMappingURL=gray.css.map */
