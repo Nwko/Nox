@@ -7,7 +7,6 @@
 - [ ] Get at least 3 commits minium in everyday until March 14th\ <!-- Yes, I'm leaving the / in :D -->
 - [ ] Figure out jQuery
 - [ ] Add the latest commit and built time to the footer of the page like in <https://discord.js.org/>
-- [ ] Make a custom element .w.
 - [ ] Create cookies to remember the user's settings
 
 ## Completed
@@ -29,3 +28,4 @@
 ### Discarded
 
 ~~- [ ] Try animations with p5.js~~
+~~- [ ] Make a custom element .w.~~
