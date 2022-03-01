@@ -1,6 +1,6 @@
 {
   "name": "nox",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "nox-site .w.",
   "type": "module",
   "main": "public/scripts/main.js",
@@ -18,13 +18,9 @@
     "deploy": "./deploy.sh",
     "github": "node public/scripts/github.js"
   },
-  "license": "Unlicense",
+  "license": "The Unlicense",
   "private": true,
   "dependencies": {
     "animate.css": "^4.1.1"
-  },
-  "devDependencies": {
-    "@octokit/core": "^3.5.1"
   }
 }
-
