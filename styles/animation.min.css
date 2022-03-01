@@ -1,2 +1,2 @@
-@-webkit-keyframes fade{0%{opacity:0}50%{opacity:0.5}100%{opacity:1}}@keyframes fade{0%{opacity:0}50%{opacity:0.5}100%{opacity:1}}
+@-webkit-keyframes fade{0%{opacity:0}50%{opacity:0.5}100%{opacity:1}}@keyframes fade{0%{opacity:0}50%{opacity:0.5}100%{opacity:1}}@-webkit-keyframes identifier{0%{opacity:0}50%{opacity:0.5;translateX:20px}100%{opacity:1;translateY:20px}}@keyframes identifier{0%{opacity:0}50%{opacity:0.5;translateX:20px}100%{opacity:1;translateY:20px}}
 /*# sourceMappingURL=animation.min.css.map */
