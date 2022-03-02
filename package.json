@@ -1,6 +1,6 @@
 {
   "name": "nox",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "nox-site .w.",
   "type": "module",
   "main": "public/scripts/main.js",
@@ -21,6 +21,7 @@
   "license": "The Unlicense",
   "private": true,
   "dependencies": {
-    "animate.css": "^4.1.1"
+    "animate.css": "^4.1.1",
+    "sass": "^1.49.9"
   }
 }
