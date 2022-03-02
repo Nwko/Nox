@@ -1,6 +1,6 @@
 {
   "name": "nox",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "nox-site .w.",
   "type": "module",
   "main": "public/scripts/main.js",
