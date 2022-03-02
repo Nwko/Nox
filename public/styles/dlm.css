@@ -17,11 +17,11 @@
   color: white;
 }
 
-.dark-mode:hover, a:hover {
+a:hover {
   color: #5f0000;
 }
 
-.dark-mode:hover, button:hover {
+button:hover {
   background-color: #060055;
   border: 1px solid #afafaf;
 }
