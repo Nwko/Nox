@@ -8,6 +8,7 @@
 - [ ] Figure out jQuery
 - [ ] Add the latest commit and built time to the footer of the page like in <https://discord.js.org/>
 - [ ] Create cookies to remember the user's settings
+- [ ] Add some random things in the random page :D
 
 ## Completed
 
