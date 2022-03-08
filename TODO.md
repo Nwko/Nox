@@ -4,7 +4,6 @@
 - [ ] Never gonna give you up never gonna let you down and desert you
 - [ ] Add more things to this project
 - [ ] Make better animations -w-
-- [ ] Get at least 3 commits minium in everyday until March 14th\ <!-- Yes, I'm leaving the / in :D -->
 - [ ] Figure out jQuery
 - [ ] Add the latest commit and built time to the footer of the page like in <https://discord.js.org/>
 - [ ] Create cookies to remember the user's settings
@@ -30,3 +29,4 @@
 
 ~~- [ ] Try animations with p5.js~~
 ~~- [ ] Make a custom element .w.~~
+~~- [ ] Get at least 3 commits minium in everyday until March 14th\ <!-- Yes, I'm leaving the / in :D -->~~
