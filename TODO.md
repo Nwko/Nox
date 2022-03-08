@@ -28,5 +28,7 @@
 ### Discarded
 
 ~~- [ ] Try animations with p5.js~~
+
 ~~- [ ] Make a custom element .w.~~
+
 ~~- [ ] Get at least 3 commits minium in everyday until March 14th\ <!-- Yes, I'm leaving the / in :D -->~~
